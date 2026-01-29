@@ -4,7 +4,7 @@
 
 **Intelligent Network Traffic Monitor · Built for macOS**
 
-[![Latest Release](https://img.shields.io/badge/version-1.4.0-blue.svg)](https://github.com/yourusername/iNTM/releases)
+[![Latest Release](https://img.shields.io/badge/version-2.3.x-blue.svg)](https://github.com/yourusername/iNTM/releases)
 [![macOS](https://img.shields.io/badge/macOS-14.0+-orange.svg)](https://www.apple.com/macos)
 [![Swift](https://img.shields.io/badge/Swift-5.9-orange.svg)](https://swift.org)
 
