@@ -88,7 +88,6 @@
 
 1. **Download the App**
    - [Download from Official Website](https://intm.jsiqi.vip/)
-   - Or download from [GitHub Releases](https://github.com/yourusername/iNTM/releases/latest)
 
 2. **Install the App**
    - Mount the downloaded DMG file

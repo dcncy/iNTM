@@ -89,7 +89,6 @@
 
 1. **下载应用**
    - [从官网下载](https://intm.jsiqi.vip/)
-   - 或从 [GitHub Releases](https://github.com/yourusername/iNTM/releases/latest) 下载
 
 2. **安装应用**
    - 打开下载的 DMG 文件
