@@ -83,7 +83,7 @@
 
 ### 系统要求
 - macOS 14.0 或更高版本（Sonoma 及以上）
-- 推荐使用 Apple Silicon (M1/M2/M3/M4)
+- 推荐使用 Apple Silicon (M1/M2/M3/M4...)
 
 ### 下载安装
 

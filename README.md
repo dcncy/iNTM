@@ -82,7 +82,7 @@
 
 ### System Requirements
 - macOS 14.0 or later (Sonoma and above)
-- Apple Silicon (M1/M2/M3/M4) recommended
+- Apple Silicon (M1/M2/M3/M4...) recommended
 
 ### Installation Steps
 
