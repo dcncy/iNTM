@@ -5,7 +5,7 @@
 **智能网络流量监控工具 · 为 macOS 打造**
 
 [![最新版本](https://img.shields.io/badge/版本-2.3.x-blue.svg)](https://github.com/yourusername/iNTM/releases)
-[![macOS](https://img.shields.io/badge/macOS-14.0+-orange.svg)](https://www.apple.com/cn/macos)
+[![macOS](https://img.shields.io/badge/macOS-15.0+-orange.svg)](https://www.apple.com/cn/macos)
 [![Swift](https://img.shields.io/badge/Swift-5.9-orange.svg)](https://swift.org)
 
 简体中文 | [English](README.md)
@@ -82,7 +82,7 @@
 ## 📦 下载与安装
 
 ### 系统要求
-- macOS 14.0 或更高版本（Sonoma 及以上）
+- macOS 15.0 或更高版本（Sequoia 及以上）
 - 推荐使用 Apple Silicon (M1/M2/M3/M4...)
 
 ### 下载安装
@@ -159,7 +159,7 @@ A: 不会。iNTM 完全在本地运行，所有流量数据都存储在你的 Ma
 A: iNTM 经过深度优化，正常情况下内存占用应小于 50MB。如果遇到内存占用异常，请尝试重启应用或提交 Issue。
 
 ### Q: 支持 macOS Ventura 或更早版本吗？
-A: 目前仅支持 macOS 14.0 (Sonoma) 及以上版本。如果有足够的需求，我们会考虑支持更早的系统版本。
+A: 目前仅支持 macOS 15.0 (Sequoia) 及以上版本。如果有足够的需求，我们会考虑支持更早的系统版本。
 
 ---
 

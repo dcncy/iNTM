@@ -5,7 +5,7 @@
 **Intelligent Network Traffic Monitor · Built for macOS**
 
 [![Latest Release](https://img.shields.io/badge/version-2.3.x-blue.svg)](https://github.com/yourusername/iNTM/releases)
-[![macOS](https://img.shields.io/badge/macOS-14.0+-orange.svg)](https://www.apple.com/macos)
+[![macOS](https://img.shields.io/badge/macOS-15.0+-orange.svg)](https://www.apple.com/macos)
 [![Swift](https://img.shields.io/badge/Swift-5.9-orange.svg)](https://swift.org)
 
 [简体中文](README.zh-CN.md) | English
@@ -81,7 +81,7 @@
 ## 📦 Download & Installation
 
 ### System Requirements
-- macOS 14.0 or later (Sonoma and above)
+- macOS 15.0 or later (Sequoia and above)
 - Apple Silicon (M1/M2/M3/M4...) recommended
 
 ### Installation Steps

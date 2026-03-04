@@ -33,7 +33,7 @@ assignees: ''
 
 ## 💻 环境信息
 
-- **macOS 版本**：[例如 macOS 14.2]
+- **macOS 版本**：[例如 macOS 15.2]
 - **iNTM 版本**：[例如 1.4.0]
 - **处理器类型**：[Apple Silicon M1/M2/M3 或 Intel]
 
