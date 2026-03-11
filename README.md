@@ -88,6 +88,7 @@
 
 1. **Download the App**
    - [Download from Official Website](https://intm.jsiqi.vip/)
+   - [Download on the App Store](https://apps.apple.com/cn/app/intm/id6758553441)
 
 2. **Install the App**
    - Mount the downloaded DMG file

@@ -89,6 +89,7 @@
 
 1. **下载应用**
    - [从官网下载](https://intm.jsiqi.vip/)
+   - [前往 App Store 下载](https://apps.apple.com/cn/app/intm/id6758553441)
 
 2. **安装应用**
    - 打开下载的 DMG 文件
