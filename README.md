@@ -132,7 +132,6 @@ See [THIRD_PARTY_LICENSES.md](THIRD_PARTY_LICENSES.md) for details.
 We welcome feedback and feature suggestions!
 
 - **Bug Reports**: [GitHub Issues](https://github.com/dcncy/iNTM/issues)
-- **Feature Requests**: [GitHub Discussions](https://github.com/dcncy/iNTM/discussions)
 - **Documentation**: See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 
 **Note**: iNTM is closed-source software. We do not accept code contributions, but we highly value user feedback and feature suggestions.
@@ -142,8 +141,6 @@ We welcome feedback and feature suggestions!
 ## 📮 Contact
 
 - **Official Website**: [https://intm.jsiqi.vip/](https://intm.jsiqi.vip/)
-- **Issues**: [GitHub Issues](https://github.com/dcncy/iNTM/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/dcncy/iNTM/discussions)
 
 ---
 

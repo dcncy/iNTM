@@ -133,7 +133,6 @@ iNTM 站在巨人的肩膀上，感谢以下优秀的开源项目：
 欢迎提交问题报告和功能建议！
 
 - **问题反馈**：[GitHub Issues](https://github.com/dcncy/iNTM/issues)
-- **功能建议**：[GitHub Discussions](https://github.com/dcncy/iNTM/discussions)
 - **反馈指南**：详见 [CONTRIBUTING.md](CONTRIBUTING.md)
 
 **注意**：iNTM 是闭源软件，我们目前不接受代码贡献，但非常重视用户的反馈和功能建议。
@@ -143,8 +142,6 @@ iNTM 站在巨人的肩膀上，感谢以下优秀的开源项目：
 ## 📮 联系方式
 
 - **官方网站**：[https://intm.jsiqi.vip/](https://intm.jsiqi.vip/)
-- **问题反馈**：[GitHub Issues](https://github.com/dcncy/iNTM/issues)
-- **功能讨论**：[GitHub Discussions](https://github.com/dcncy/iNTM/discussions)
 
 ---
 
