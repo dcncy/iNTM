@@ -4,7 +4,7 @@
 
 **Intelligent Network Traffic Monitor · Built for macOS**
 
-[![Latest Release](https://img.shields.io/badge/version-2.3.x-blue.svg)](https://github.com/yourusername/iNTM/releases)
+[![Latest Release](https://img.shields.io/badge/version-2.4.x-blue.svg)](https://github.com/dcncy/iNTM/releases)
 [![macOS](https://img.shields.io/badge/macOS-15.0+-orange.svg)](https://www.apple.com/macos)
 [![Swift](https://img.shields.io/badge/Swift-5.9-orange.svg)](https://swift.org)
 
@@ -131,8 +131,8 @@ See [THIRD_PARTY_LICENSES.md](THIRD_PARTY_LICENSES.md) for details.
 
 We welcome feedback and feature suggestions!
 
-- **Bug Reports**: [GitHub Issues](https://github.com/yourusername/iNTM/issues)
-- **Feature Requests**: [GitHub Discussions](https://github.com/yourusername/iNTM/discussions)
+- **Bug Reports**: [GitHub Issues](https://github.com/dcncy/iNTM/issues)
+- **Feature Requests**: [GitHub Discussions](https://github.com/dcncy/iNTM/discussions)
 - **Documentation**: See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 
 **Note**: iNTM is closed-source software. We do not accept code contributions, but we highly value user feedback and feature suggestions.
@@ -142,8 +142,8 @@ We welcome feedback and feature suggestions!
 ## 📮 Contact
 
 - **Official Website**: [https://intm.jsiqi.vip/](https://intm.jsiqi.vip/)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/iNTM/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/iNTM/discussions)
+- **Issues**: [GitHub Issues](https://github.com/dcncy/iNTM/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/dcncy/iNTM/discussions)
 
 ---
 
