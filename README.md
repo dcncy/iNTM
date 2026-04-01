@@ -82,7 +82,6 @@
 
 ### System Requirements
 - macOS 15.0 or later (Sequoia and above)
-- Apple Silicon (M1/M2/M3/M4...) recommended
 
 ### Installation Steps
 
