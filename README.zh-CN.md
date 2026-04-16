@@ -4,7 +4,7 @@
 
 **智能网络流量监控工具 · 为 macOS 打造**
 
-[![最新版本](https://img.shields.io/badge/版本-2.4.x-blue.svg)](https://github.com/dcncy/iNTM/releases)
+[![最新版本](https://img.shields.io/badge/版本-2.5.x-blue.svg)](https://github.com/dcncy/iNTM/releases)
 [![macOS](https://img.shields.io/badge/macOS-15.0+-orange.svg)](https://www.apple.com/cn/macos)
 [![Swift](https://img.shields.io/badge/Swift-5.9-orange.svg)](https://swift.org)
 
