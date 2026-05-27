@@ -86,7 +86,7 @@
 ### Installation Steps
 
 1. **Download the App**
-   - [Download from Official Website](https://intm.jsiqi.vip/)
+   - [Download from Official Website](https://intm.opcdrive.com/)
    - [Download on the App Store](https://apps.apple.com/app/intm/id6758553441)
 
 2. **Install the App**
@@ -139,7 +139,7 @@ We welcome feedback and feature suggestions!
 
 ## 📮 Contact
 
-- **Official Website**: [https://intm.jsiqi.vip/](https://intm.jsiqi.vip/)
+- **Official Website**: [https://intm.opcdrive.com/](https://intm.opcdrive.com/)
 
 ---
 

@@ -82,7 +82,7 @@
 
 ## 📞 获取帮助
 
-- **使用问题**：查看 [常见问题](https://intm.jsiqi.vip/)
+- **使用问题**：查看 [常见问题](https://intm.opcdrive.com/)
 - **问题反馈**：访问 [GitHub Issues](https://github.com/yourusername/iNTM/issues)
 - **功能讨论**：访问 [GitHub Discussions](https://github.com/yourusername/iNTM/discussions)（如果启用）
 

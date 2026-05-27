@@ -87,7 +87,7 @@
 ### 下载安装
 
 1. **下载应用**
-   - [从官网下载](https://intm.jsiqi.vip/)
+   - [从官网下载](https://intm.opcdrive.com/)
    - [前往 App Store 下载](https://apps.apple.com/app/intm/id6758553441)
 
 2. **安装应用**
@@ -140,7 +140,7 @@ iNTM 站在巨人的肩膀上，感谢以下优秀的开源项目：
 
 ## 📮 联系方式
 
-- **官方网站**：[https://intm.jsiqi.vip/](https://intm.jsiqi.vip/)
+- **官方网站**：[https://intm.opcdrive.com/](https://intm.opcdrive.com/)
 
 ---
 
